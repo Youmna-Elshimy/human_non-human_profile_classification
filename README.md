@@ -1,4 +1,4 @@
-# **human_non-human_profile_classification**
+# **Human and Non-Human Profile Classification**
 
 ## **Dataset Description**
 The dataset was originally used to train a CrowdFlower AI gender predictor. Contributors have been posting code and discussion on the [web](https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification) as well as [here](https://www.analyticsvidhya.com/blog/2021/08/twitter-based-gender-classification-a-machine-learning-project/), [here](https://www.kaggle.com/code/homayoonkhadivi/twitter-gender-classification-high-acc-69-56-nlp), [here](https://www.sciencedirect.com/science/article/pii/S2949719123000158), [here](https://github.com/tlaphane/Machine-Learning---Twitter-User-Gender-Classification), among others. 
